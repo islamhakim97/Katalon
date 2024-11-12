@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ContactInfo Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>616e4145-4cc2-4a5e-9dc2-0183948cf0d3</testCaseGuid>
+</TestCaseEntity>

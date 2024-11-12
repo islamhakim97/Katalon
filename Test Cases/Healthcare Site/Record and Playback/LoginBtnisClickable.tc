@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginBtnisClickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c81f7241-4ede-439f-bb9f-f0f7638c4ca2</testCaseGuid>
+</TestCaseEntity>
