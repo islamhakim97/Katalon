@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input</name>
+   <tag></tag>
+   <elementGuidId>67dda8a1-ddc8-45b5-ad97-87a37895ffaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-autocomplete-text-input.oxd-autocomplete-text-input--focus > input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/div/div[2]/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Type for hints...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>51c1d1ab-3015-4ba1-bf34-1ac4595cd715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type for hints...</value>
+      <webElementGuid>36c2b57f-359f-429a-9b16-0c5f4bd6ee6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-autocomplete-wrapper&quot;]/div[@class=&quot;oxd-autocomplete-text-input oxd-autocomplete-text-input--focus&quot;]/input[1]</value>
+      <webElementGuid>a78d773a-8c4c-4f0b-8a70-19e71eefd64b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/div/div[2]/div/div/input</value>
+      <webElementGuid>5c558610-c0e5-4fa6-b258-f21fe28ee7a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/input</value>
+      <webElementGuid>c9a3ae1f-2738-4cef-83c2-d7872fc3a54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Type for hints...']</value>
+      <webElementGuid>af49d304-4871-4a31-badb-5ef09c5abfda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

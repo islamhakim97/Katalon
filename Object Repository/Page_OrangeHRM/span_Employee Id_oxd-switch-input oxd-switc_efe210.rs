@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Employee Id_oxd-switch-input oxd-switc_efe210</name>
+   <tag></tag>
+   <elementGuidId>940633ea-6aa3-4ad6-b223-f33e2e7f4706</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.oxd-switch-input.oxd-switch-input--active.--label-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[2]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>form span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3f471da-04fe-485a-b5ef-e90b763efa5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-switch-input oxd-switch-input--active --label-right</value>
+      <webElementGuid>c51d714b-1d75-4291-b2f1-8f4c204788d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row user-form-header&quot;]/div[@class=&quot;oxd-switch-wrapper&quot;]/label[1]/span[@class=&quot;oxd-switch-input oxd-switch-input--active --label-right&quot;]</value>
+      <webElementGuid>21adc318-32bd-47f6-9a95-03cae28aa139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[2]/div/label/span</value>
+      <webElementGuid>86883658-9212-4b02-8c32-5f2164424a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>4fc4041b-8078-4f9b-a2fa-9407e44eab42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

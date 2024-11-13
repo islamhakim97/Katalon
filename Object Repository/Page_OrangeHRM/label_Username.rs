@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Username</name>
+   <tag></tag>
+   <elementGuidId>e0f33588-c8c7-45d6-8412-09e7472ab1a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-input-group.oxd-input-field-bottom-space > div.oxd-input-group__label-wrapper > label.oxd-label.oxd-input-field-required</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[3]/div/div/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Username&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c13164c2-2dd0-4c43-96f7-37a1e08b850e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-label oxd-input-field-required</value>
+      <webElementGuid>c46a4671-e766-400f-879d-57e7145eefd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>b63042ae-6a76-4f16-809e-207d8e88bd8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[@class=&quot;oxd-input-group__label-wrapper&quot;]/label[@class=&quot;oxd-label oxd-input-field-required&quot;]</value>
+      <webElementGuid>39c1e992-f7fc-40f6-aebd-45b5403ec618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div[3]/div/div/div/div/label</value>
+      <webElementGuid>40ffd352-2c9c-44a3-9c82-161054f52db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Id'])[1]/following::label[2]</value>
+      <webElementGuid>52bcdc9e-a40f-4342-a852-ed0971d2865d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Full Name'])[1]/following::label[3]</value>
+      <webElementGuid>036c8e8c-89d1-4d1a-adf0-3f5aa6f8c502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::label[1]</value>
+      <webElementGuid>6fa9fbe4-9cc5-4ff0-b2bc-fa377bf3b3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username']/parent::*</value>
+      <webElementGuid>9ff71477-61a8-46d8-ad71-cee7a2322296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/label</value>
+      <webElementGuid>5fb59cd9-cf61-43a4-8ec3-d86ecc90529c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Username' or . = 'Username')]</value>
+      <webElementGuid>2cbac20c-29b1-4cce-94dd-1e13337e5400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

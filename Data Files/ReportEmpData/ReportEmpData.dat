@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ReportEmpData</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e2639818-0f22-4630-a3f0-7bea63dfd9cd</dataFileGUID>
+   <dataSourceUrl>D:\Neo Leap\Automation Katalon\ReportNamesData.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>false</value>
+      </entry>
+   </properties>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

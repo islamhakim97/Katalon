@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buzz Add Comment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90003d1d-ac75-4ba2-8d46-fbd7c7cc7828</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64e48c02-1454-4849-810a-8102c604fb07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64e48c02-1454-4849-810a-8102c604fb07</id>
+      <masked>false</masked>
+      <name>Comment</name>
+   </variable>
+</TestCaseEntity>

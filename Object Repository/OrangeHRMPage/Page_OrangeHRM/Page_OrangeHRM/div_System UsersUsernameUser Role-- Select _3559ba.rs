@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_System UsersUsernameUser Role-- Select _3559ba</name>
+   <tag></tag>
+   <elementGuidId>dcd58ee3-2134-42af-816a-3ae95ce6e0a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-table-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset S&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ad40ec25-8798-4573-ac71-2e1ca32822c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-table-filter</value>
+      <webElementGuid>7f67efad-6365-450a-a278-206ba68bbe1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search </value>
+      <webElementGuid>3d477a57-a5af-49b4-bfe3-67f642457720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]</value>
+      <webElementGuid>3639fd9f-94cf-41bc-b190-51ae8aeff3c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>9dca7b3a-5fc3-4247-b64e-10a2beee7937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::div[6]</value>
+      <webElementGuid>6e6f10e8-b7c4-4236-9382-5bbfd82e706f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::div[6]</value>
+      <webElementGuid>01631799-62a3-4813-97b7-c9b8c2d7fc74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>f6e5ebfe-ae2c-453a-94f1-052137d3237c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search ' or . = 'System UsersUsernameUser Role-- Select --Employee NameStatus-- Select -- Reset  Search ')]</value>
+      <webElementGuid>fb3ecfc1-dadf-47b7-8ba4-2fa3f41f58ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Home Telephone_oxd-icon-button orang_ce2e83</name>
+   <tag></tag>
+   <elementGuidId>021c5c3f-8c79-4a45-9925-4e09e96d85f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select Display Field GroupContact DetailsSelect Display FieldHome Telephone$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5a7bd53-2bfd-4b68-9f45-b29ecfc48a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button orangehrm-report-icon</value>
+      <webElementGuid>37daf09d-97c3-44a3-b9f7-e724be22b2d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c43711d3-f5ed-4078-a070-7f92127b0c31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-report-criteria --span-column-2&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[2]/button[@class=&quot;oxd-icon-button orangehrm-report-icon&quot;]</value>
+      <webElementGuid>ed5dcd73-de34-4fb8-9ae8-74fc05af97ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>df3bddad-e91f-4006-bf9c-339be9b2b5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>80295855-e2d9-4ca0-b321-0062fad87826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home Telephone'])[1]/following::button[1]</value>
+      <webElementGuid>664c2fa0-6b1e-48cc-b28a-d3e0ae459c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Display Field'])[1]/following::button[1]</value>
+      <webElementGuid>41490e6c-d177-4d67-842d-73771a1b5e28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>ddf085d6-3daa-40b7-8711-21e460fd4e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>caf6bf74-a0b2-4e38-8a8d-3f50127e0e92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

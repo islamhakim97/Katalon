@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Employee Name_oxd-icon bi-plus</name>
+   <tag></tag>
+   <elementGuidId>02776603-ee67-495b-bbb4-a99a810a012e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div/div[2]/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Selection CriteriaEmployee NameIncludeCurrent Employees Only$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>863eb86d-1990-4968-b84c-a6430f91e9c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-plus</value>
+      <webElementGuid>17f8cecc-670a-4472-8751-5b2ce9012648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-report-criteria --span-column-2&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[2]/button[@class=&quot;oxd-icon-button orangehrm-report-icon&quot;]/i[@class=&quot;oxd-icon bi-plus&quot;]</value>
+      <webElementGuid>e0fae70c-c059-4974-b278-2d0faed33cca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div/div[2]/div[2]/button/i</value>
+      <webElementGuid>28213f04-04ae-455e-ab78-9158688e3062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/i</value>
+      <webElementGuid>1abe3443-b0de-45dc-8ea0-4c75bda391ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

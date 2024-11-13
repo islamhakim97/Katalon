@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search UsersbyName Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91cc25c3-aa27-45f0-a99f-2fad5d56baac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b92bb39-d424-4b36-bfc3-b86b5692b048</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b92bb39-d424-4b36-bfc3-b86b5692b048</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+</TestCaseEntity>

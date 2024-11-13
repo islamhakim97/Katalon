@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_test posting</name>
+   <tag></tag>
+   <elementGuidId>b7c541e7-2bb2-480f-bb60-7965e0e4aba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.orangehrm-buzz-post-body-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;test posting&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>98e24ba9-0f5f-4663-935e-2e49eef8c436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p orangehrm-buzz-post-body-text</value>
+      <webElementGuid>c1b945a4-7d21-4f6b-b20d-d44b39395e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>test posting</value>
+      <webElementGuid>1f9d05f9-985b-4dad-bdc7-69a019e86792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-buzz-layout&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-buzz-newsfeed-posts&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-buzz&quot;]/div[@class=&quot;orangehrm-buzz-post-body&quot;]/div[@class=&quot;orangehrm-buzz-post-body&quot;]/p[@class=&quot;oxd-text oxd-text--p orangehrm-buzz-post-body-text&quot;]</value>
+      <webElementGuid>12951f41-f02c-45f9-9736-f2fa13912389</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[2]/div/p</value>
+      <webElementGuid>e18bc301-4e22-4845-9c67-5b285c1e5662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='test posting']/parent::*</value>
+      <webElementGuid>2156828c-3391-44c0-9adb-1e0dc6141efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/p</value>
+      <webElementGuid>52daf5dd-c03e-4194-8293-e9533b5e969a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'test posting' or . = 'test posting')]</value>
+      <webElementGuid>77c2181c-9b6b-40ad-9d0f-ea1b8bcf0553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

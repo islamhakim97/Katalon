@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__oxd-input oxd-input--focus</name>
+   <tag></tag>
+   <elementGuidId>d9995855-dd62-40f5-ab21-2028dbb5d878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[4]/div/form/div/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.oxd-input.oxd-input--focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Write your comment...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a29386c3-2e04-47b7-b5f7-b10fd24cf2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-input oxd-input--focus</value>
+      <webElementGuid>4a3ac522-bb46-4be8-ac3b-6f16faf735a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Write your comment...</value>
+      <webElementGuid>5cc59aed-d2c6-400a-b059-1cad2e80ca76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-buzz-layout&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-buzz-newsfeed-posts&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-buzz&quot;]/div[@class=&quot;orangehrm-buzz-comment&quot;]/div[@class=&quot;orangehrm-buzz-comment-add&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus&quot;]</value>
+      <webElementGuid>80f37270-1323-43c4-97b8-ce02747740dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[4]/div/form/div/div[2]/input</value>
+      <webElementGuid>697d78f0-eba0-4c03-bc1e-544431ac5f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>40b30c5e-4454-49a8-af37-116b2058869c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Write your comment...']</value>
+      <webElementGuid>1f359ded-7e64-4756-9822-cd1f5c4a1d82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Employee Id_oxd-icon-button orangehr_5e0d63</name>
+   <tag></tag>
+   <elementGuidId>04d114ae-96c1-4e4f-9197-19fc59166838</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select Display Field GroupPersonalSelect Display FieldEmployee Id$/ >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>969c187f-4389-46cb-8064-46d3e4ba5fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon-button orangehrm-report-icon</value>
+      <webElementGuid>ce528e12-ed2f-4a59-aef8-11d0e9955fa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>084c2b9d-e125-4504-a077-0508389f1cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-report-criteria --span-column-2&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[2]/button[@class=&quot;oxd-icon-button orangehrm-report-icon&quot;]</value>
+      <webElementGuid>060f7300-336e-4e74-be50-e13a734dc4ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>d8cbcc2f-77a9-40a0-8640-e0e93f9078ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[3]/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>507ef541-cc9d-44ea-880e-19e933de4305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Id'])[1]/following::button[1]</value>
+      <webElementGuid>2913777d-701c-4aee-804c-45e6b280b750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Display Field'])[1]/following::button[1]</value>
+      <webElementGuid>5832623b-253c-4a30-b7a4-daf526e5ecb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>ecb46955-89da-4565-8f90-1db8686047ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>5419e089-6329-4cdf-9b52-dd2424fb77a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

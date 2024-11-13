@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Time at Work</name>
+   <tag></tag>
+   <elementGuidId>396df432-a051-4511-b984-57a7e2400663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Time at Work&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1cd544b3-e67c-42a7-9836-b489d0b2f4e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p</value>
+      <webElementGuid>226f71e3-e129-44d6-be16-301e5824092d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time at Work</value>
+      <webElementGuid>c4d0602d-b1a3-4f4a-918d-4657a51d8037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-header&quot;]/div[@class=&quot;orangehrm-dashboard-widget-name&quot;]/p[@class=&quot;oxd-text oxd-text--p&quot;]</value>
+      <webElementGuid>d2f0ecfb-f46a-4815-8978-29c645307812</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div/p</value>
+      <webElementGuid>30fc57df-dbb1-4a0c-a987-d79a62ec3322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Time at Work']/parent::*</value>
+      <webElementGuid>5bb7e025-9855-4c72-bb8a-75d1ac8c269c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>1447d28b-8eb5-4b76-a69c-1d8b677ccd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Time at Work' or . = 'Time at Work')]</value>
+      <webElementGuid>e181f1bf-00f5-4f5b-8aa5-d070341554a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Most Commented Posts_oxd-icon bi-chat-text-fill</name>
+   <tag></tag>
+   <elementGuidId>598671e6-4af3-46ed-bd54-c6fe9d70db07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[3]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-chat-text-fill</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.orangehrm-buzz-post-actions > button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f64c8388-dba2-43ef-98a9-3c76de2e103e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-chat-text-fill</value>
+      <webElementGuid>ed98378e-8c24-41f1-bd61-5acae6234c55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-buzz-layout&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;orangehrm-buzz-newsfeed&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-buzz-newsfeed-posts&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-buzz&quot;]/div[@class=&quot;orangehrm-buzz-post-footer&quot;]/div[@class=&quot;orangehrm-buzz-post-actions&quot;]/button[@class=&quot;oxd-icon-button&quot;]/i[@class=&quot;oxd-icon bi-chat-text-fill&quot;]</value>
+      <webElementGuid>f0078687-3d09-4414-8af9-753f3125b2dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[3]/div/div/div[3]/div/button/i</value>
+      <webElementGuid>52af77fc-eb1d-431d-b705-c20ea7106955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/i</value>
+      <webElementGuid>6e1bbf5b-27ab-4bab-9557-fa1d76e332d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

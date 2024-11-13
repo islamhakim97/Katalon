@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_-- Select --_oxd-icon bi-caret-up-fill ox_627fec_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>20726b46-72d2-496b-9c5c-dba62f9f361e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div[6]/div/div[2]/div/div/div[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(6) > .oxd-input-group > div:nth-child(2) > .oxd-select-wrapper > .oxd-select-text > .oxd-select-text--after > .oxd-icon</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4b656bbc-577c-45b3-98a7-fcec7f1f73c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-caret-up-fill oxd-select-text--arrow</value>
+      <webElementGuid>b7959cc9-da05-4ae5-89a1-c3ad164b971e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-4 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-text oxd-select-text--focus oxd-select-text--error&quot;]/div[@class=&quot;oxd-select-text--after&quot;]/i[@class=&quot;oxd-icon bi-caret-up-fill oxd-select-text--arrow&quot;]</value>
+      <webElementGuid>9a223641-d5b4-43d4-a2f6-6475dce02807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div[6]/div/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>f1715018-b89d-4c79-8f87-341ca1a905ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>3989dd0c-11c3-469d-bad6-025302f1595f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

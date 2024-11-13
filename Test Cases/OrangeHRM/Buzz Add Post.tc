@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buzz Add Post</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e492e407-998e-402a-85a6-696447f37a71</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>920c09f3-ba34-4720-a2b5-b1bfe3fd670a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>920c09f3-ba34-4720-a2b5-b1bfe3fd670a</id>
+      <masked>false</masked>
+      <name>PostText</name>
+   </variable>
+</TestCaseEntity>

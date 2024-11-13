@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Multiple Reports For Emp Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cedb7478-9b38-4f5e-8a32-ac77cdda318f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe021407-a256-4717-ae33-0a8605330c12</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe021407-a256-4717-ae33-0a8605330c12</id>
+      <masked>false</masked>
+      <name>ReportName</name>
+   </variable>
+</TestCaseEntity>

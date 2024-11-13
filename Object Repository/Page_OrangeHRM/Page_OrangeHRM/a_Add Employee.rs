@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Employee</name>
+   <tag></tag>
+   <elementGuidId>96c6058d-810e-4c31-bb23-9488810570d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Add Employee&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>152297d7-2324-4942-88e9-c5192964280e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-topbar-body-nav-tab-item</value>
+      <webElementGuid>c6e6b73d-ba01-4022-8d09-6d464cccb94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>1df17d05-cd3c-47e9-b03c-4cab3be99cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Employee</value>
+      <webElementGuid>2788be2c-3c12-4a46-b604-2e0997e19241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]/li[@class=&quot;oxd-topbar-body-nav-tab&quot;]/a[@class=&quot;oxd-topbar-body-nav-tab-item&quot;]</value>
+      <webElementGuid>58185b27-f4cd-4006-8476-ffe55f46edc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]/nav/ul/li[3]/a</value>
+      <webElementGuid>ee512bda-023a-4aa4-92fd-36e6a30cd0e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Employee')]</value>
+      <webElementGuid>b6440d3b-0ba4-4f96-85a9-2f253c2941e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configuration'])[1]/following::a[2]</value>
+      <webElementGuid>0c9472a6-2c30-43b8-8d60-d94a731e531a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Name'])[1]/preceding::a[2]</value>
+      <webElementGuid>4e1f579b-e849-4826-ad1a-8bb10e69d012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Employee']/parent::*</value>
+      <webElementGuid>49deac8d-70b9-4f19-8c74-b2084565abfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>4f3924ed-9849-49b7-9a6e-bea214e08203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[3]/a</value>
+      <webElementGuid>57530104-69ec-44f1-a5a8-1994b8082870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Add Employee' or . = 'Add Employee')]</value>
+      <webElementGuid>866d0e42-3a81-4de1-b5b0-37b81276b5ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

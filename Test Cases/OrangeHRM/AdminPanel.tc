@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AdminPanel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00853b9a-874b-47a7-bf65-0566eacb78de</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_My Actions</name>
+   <tag></tag>
+   <elementGuidId>56641893-b95f-4b76-8cf7-124b2e3acd31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;My Actions&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c2d5d2cf-a123-4739-b3c2-8cc45952f62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p</value>
+      <webElementGuid>4a40da99-fb6a-44a5-945f-101d84157158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Actions</value>
+      <webElementGuid>e9a4c4e4-e941-4e9c-a8e7-5439addcce27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-dashboard-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters orangehrm-dashboard-widget&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white orangehrm-dashboard-widget&quot;]/div[@class=&quot;orangehrm-dashboard-widget-header&quot;]/div[@class=&quot;orangehrm-dashboard-widget-name&quot;]/p[@class=&quot;oxd-text oxd-text--p&quot;]</value>
+      <webElementGuid>2e147d6a-8a94-43aa-a3e4-ac6748f490a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/div/div/p</value>
+      <webElementGuid>c1395328-9078-4c43-acc3-698da330b28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Actions']/parent::*</value>
+      <webElementGuid>f872948a-1e05-4927-a360-c82101f7e1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/p</value>
+      <webElementGuid>c4e646d7-eec6-4d4b-bb3f-f4cb566a7374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'My Actions' or . = 'My Actions')]</value>
+      <webElementGuid>9d9a5631-c2d2-4d17-82f9-08d4396044b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

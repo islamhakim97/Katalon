@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search SystemUsers</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4305b1e1-0c86-4312-9505-c13b941b91fa</testCaseGuid>
+</TestCaseEntity>

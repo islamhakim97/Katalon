@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Enabled_oxd-icon bi-trash</name>
+   <tag></tag>
+   <elementGuidId>deae18ec-d80e-4864-8712-3678d12b0f73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div[3]/div/div[6]/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot; Ganesh Admin Jude Bellingham Enabled  &quot;i] >> internal:role=button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dabbd39e-a4fb-4d98-aa8d-e6290833c7e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-trash</value>
+      <webElementGuid>a89b12d1-fbc1-4383-a041-dd654c369308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]/i[@class=&quot;oxd-icon bi-trash&quot;]</value>
+      <webElementGuid>929fdf04-2223-4d38-b4f8-fc229434afcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div[3]/div/div[6]/div/button/i</value>
+      <webElementGuid>454ef4c1-4c17-4751-9182-49c3ec5f1854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[6]/div/button/i</value>
+      <webElementGuid>f1f0df9b-3222-41ef-97fe-03eb8602341b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

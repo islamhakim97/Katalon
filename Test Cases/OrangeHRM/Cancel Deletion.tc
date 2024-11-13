@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cancel Deletion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>576b5b50-24c1-4696-8685-a2faa2bb4e6a</testCaseGuid>
+</TestCaseEntity>
