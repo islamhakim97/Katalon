@@ -6,12 +6,12 @@
    <elementGuidId>853f5880-1f43-4b64-b3a4-854c64cea1e4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.oxd-autocomplete-text-input.oxd-autocomplete-text-input--focus.oxd-autocomplete-text-input--error > input</value>
+         <key>XPATH</key>
+         <value>//div/div[2]/div/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div[2]/div/div[4]/div/div[2]/div/div/input</value>
+         <key>CSS</key>
+         <value>div.oxd-autocomplete-text-input.oxd-autocomplete-text-input--focus.oxd-autocomplete-text-input--error > input</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

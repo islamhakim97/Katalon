@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Apply for hospital readmission</name>
+   <name>h6_Add User</name>
    <tag></tag>
-   <elementGuidId>a399055d-cd98-4a1d-8108-971c8126ac6d</elementGuidId>
+   <elementGuidId>77a4a74b-b5d8-4b2f-b1e0-f1f457046754</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::label[1]</value>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/h6</value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value>h6.oxd-text.oxd-text--h6.orangehrm-main-title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;Apply for hospital readmission&quot;i</value>
+         <value>internal:role=heading[name=&quot;Add User&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -27,95 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>4f103974-0ab5-416b-97f9-1955641f4e9a</webElementGuid>
+      <value>h6</value>
+      <webElementGuid>4a75b027-03ee-4cdf-9f55-410744320b50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>for</name>
+      <name>class</name>
       <type>Main</type>
-      <value>hospital_readmission</value>
-      <webElementGuid>3caf144f-2449-44bb-b8ea-dbc61361acb6</webElementGuid>
+      <value>oxd-text oxd-text--h6 orangehrm-main-title</value>
+      <webElementGuid>ea40140d-5537-4e10-9f0c-40742b659efb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Apply for hospital readmission</value>
-      <webElementGuid>ded04e57-1c56-4d5b-85f3-339651b2c68e</webElementGuid>
+      <value>Add User</value>
+      <webElementGuid>3f4ffea9-e7ae-4884-a67c-ed829f44111c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;summary&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-offset-2 col-xs-8&quot;]/div[@class=&quot;col-xs-4&quot;]/label[1]</value>
-      <webElementGuid>546390dc-f26b-4e0f-bcab-646765e9f081</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/h6[@class=&quot;oxd-text oxd-text--h6 orangehrm-main-title&quot;]</value>
+      <webElementGuid>5dec8a75-cd3b-4135-a1f9-c21632b9f7f0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='summary']/div/div/div[3]/div/label</value>
-      <webElementGuid>94403f22-14ab-4ad8-b16b-d8ad7c8564ea</webElementGuid>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/h6</value>
+      <webElementGuid>2fcddb8a-2fd7-4283-b4d3-e7f5f091eb64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::label[1]</value>
-      <webElementGuid>3144a1e5-f70e-4756-9b7f-17d499a2ac38</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::h6[1]</value>
+      <webElementGuid>a967e9ec-f231-4829-aacd-97b947535b80</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Appointment Confirmation'])[1]/following::label[2]</value>
-      <webElementGuid>71514046-aa2d-461b-af16-9ce537e56516</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::h6[1]</value>
+      <webElementGuid>39a30cf1-a92b-4ee0-b86b-7947264034f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::label[1]</value>
-      <webElementGuid>0f13c375-5710-4ac3-bdeb-408106cba78b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Role'])[1]/preceding::h6[1]</value>
+      <webElementGuid>8b5f4295-4dd6-47dd-b952-d1d3d720c557</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date'])[1]/preceding::label[2]</value>
-      <webElementGuid>18264370-b82d-45ad-a95f-87e1c303ac11</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[1]/preceding::h6[1]</value>
+      <webElementGuid>48c9bcf0-1d39-4f79-9bdc-021563bd4e20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Apply for hospital readmission']/parent::*</value>
-      <webElementGuid>717bf13a-f213-4bd9-95b7-0ba04fea65ac</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Add User']/parent::*</value>
+      <webElementGuid>62c9bc67-5ec9-4904-a91c-6326e9fc63f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/label</value>
-      <webElementGuid>afdb1ecc-8b2f-4d32-b3a8-db0567c9014a</webElementGuid>
+      <value>//div/h6</value>
+      <webElementGuid>81dd0cb2-459d-49b8-b31b-889c3950b756</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Apply for hospital readmission' or . = 'Apply for hospital readmission')]</value>
-      <webElementGuid>b693336d-dd6f-47e8-99f2-1f766734d809</webElementGuid>
+      <value>//h6[(text() = 'Add User' or . = 'Add User')]</value>
+      <webElementGuid>caa3590f-c730-4fec-b710-1f3102893cc7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>18aa800c-112d-4606-91de-2e0084d69f20</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3475f0ce-4218-4dfb-9877-61fb5f9576f3</webElementGuid>
+      <webElementGuid>ecbc6ff2-8f48-4928-85f7-d87b72c20c3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>050bd398-3332-48a1-9e46-4d91bcc5f699</webElementGuid>
+      <webElementGuid>b882009a-acb1-4907-b954-e40b82d1d360</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/time/viewTimeModule</value>
-      <webElementGuid>30f9b036-c13d-49ec-95ad-2979b116bc8b</webElementGuid>
+      <webElementGuid>f08c587f-5e2c-41be-911e-6dbb9ff19ffe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Time</value>
-      <webElementGuid>7ad7ed22-f2f5-4c6b-8016-d5f0f767d259</webElementGuid>
+      <webElementGuid>7fd54fa8-46ab-43cc-a2c8-217e1508fa95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>5bf792df-00e7-40da-a0d1-466cecf447d0</webElementGuid>
+      <webElementGuid>70a13962-8b87-4674-b2b0-22c3e770a05e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li[4]/a</value>
-      <webElementGuid>c35f33c6-57dc-4710-abd4-a4c4948784a0</webElementGuid>
+      <webElementGuid>0e70e5b5-4fc2-4e0c-9f38-952a005a46bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/time/viewTimeModule')]</value>
-      <webElementGuid>6a89a717-d7f4-48fb-a152-5c3bc879f8ad</webElementGuid>
+      <webElementGuid>77700541-2ed6-4474-a4db-7f1ff85db7a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>dad866b1-e273-42d2-965a-ba73bc10a543</webElementGuid>
+      <webElementGuid>6e9c380f-8f57-4724-a720-852a285e80c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/time/viewTimeModule' and (text() = 'Time' or . = 'Time')]</value>
-      <webElementGuid>3700255b-e9c4-4d46-bc9d-2ff1ffae787b</webElementGuid>
+      <webElementGuid>bab7f0e1-94fd-43a0-8b2b-2b49d59efe8b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

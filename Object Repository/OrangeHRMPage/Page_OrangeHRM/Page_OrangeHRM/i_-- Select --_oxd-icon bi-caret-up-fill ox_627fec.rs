@@ -6,12 +6,12 @@
    <elementGuidId>ba0edd29-79d6-44d7-b55f-33812179ba6b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow</value>
+         <key>XPATH</key>
+         <value>//div[2]/i</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div/div/div[2]/div/div/div[2]/i</value>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-caret-up-fill.oxd-select-text--arrow</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

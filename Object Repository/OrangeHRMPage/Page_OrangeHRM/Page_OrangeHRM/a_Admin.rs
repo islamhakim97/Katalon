@@ -6,12 +6,12 @@
    <elementGuidId>4af76a6d-759f-481a-a5ef-d5fd698293b1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.oxd-main-menu-item</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.oxd-main-menu-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>2b7c2c2e-6212-4a1d-be53-68153edc0d05</webElementGuid>
+      <webElementGuid>062e1047-7287-424a-8ce2-767d85a49116</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-main-menu-item</value>
-      <webElementGuid>0caf1399-7829-4afb-9cfa-6e55854bf6b5</webElementGuid>
+      <webElementGuid>83bfffff-97ec-461c-b658-c91ec762df6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/admin/viewAdminModule</value>
-      <webElementGuid>e7da0f84-cbb0-4cbb-8bb8-745704a7a198</webElementGuid>
+      <webElementGuid>fc058eed-cfff-4075-9380-e8aa6b4965e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Admin</value>
-      <webElementGuid>bf1dbd02-ba7d-4561-902c-11ef6b999de0</webElementGuid>
+      <webElementGuid>39b50c3f-a783-490d-8f05-f7d655d60be3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/aside[@class=&quot;oxd-sidepanel&quot;]/nav[@class=&quot;oxd-navbar-nav&quot;]/div[@class=&quot;oxd-sidepanel-body&quot;]/ul[@class=&quot;oxd-main-menu&quot;]/li[@class=&quot;oxd-main-menu-item-wrapper&quot;]/a[@class=&quot;oxd-main-menu-item&quot;]</value>
-      <webElementGuid>5f58fa43-2838-4a84-85b0-c57a93105b47</webElementGuid>
+      <webElementGuid>79e67775-0264-45f0-bb2c-b5cda2222eff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/aside/nav/div[2]/ul/li/a</value>
-      <webElementGuid>62b763f2-9c12-4af4-91b8-f98a02fde799</webElementGuid>
+      <webElementGuid>24f9386f-2e5f-4c1a-b11d-2e86d5dfd5d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/admin/viewAdminModule')]</value>
-      <webElementGuid>87c076b5-cd33-48ee-9e36-10eb5572a7ad</webElementGuid>
+      <webElementGuid>ccf1cc02-c18a-4797-b971-eabf56ca2050</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/a</value>
-      <webElementGuid>45f56c04-2833-4947-8c25-a9af99749af9</webElementGuid>
+      <webElementGuid>645c066b-eea9-450c-ba61-89e871900946</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/admin/viewAdminModule' and (text() = 'Admin' or . = 'Admin')]</value>
-      <webElementGuid>b4aa84d7-714f-4712-b959-99ee9e52043b</webElementGuid>
+      <webElementGuid>34267324-ce0b-4a26-8b3e-97929cbadcd7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
